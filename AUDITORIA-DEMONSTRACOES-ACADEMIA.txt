@@ -1,0 +1,5 @@
+PROJETO 90 DIAS — AUDITORIA DAS DEMONSTRAÇÕES DE ACADEMIA
+
+Mapeamento explícito por nome de exercício. Nenhuma demonstração premium usa fallback para outro exercício.
+A segunda leva cobre Hack squat, Afundo, Panturrilha sentada e os exercícios específicos do plano feminino: Elevação pélvica, Cadeira abdutora, Coice no cabo, Remada unilateral, Rosca alternada, Agachamento hack, Leg press 45°, Cadeira extensora, Afundo búlgaro, Desenvolvimento máquina, Abdominal infra, Elevação pélvica unilateral, Abdutora inclinada, Passada no Smith, Hip thrust, Agachamento sumô, Abdução no cabo e Step-up.
+Flexora usa a demonstração de Mesa flexora por ser o mesmo exercício/movimento na máquina.

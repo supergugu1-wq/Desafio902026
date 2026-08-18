@@ -1,0 +1,26 @@
+PROJETO 90 DIAS — VALIDAÇÃO DAS DEMONSTRAÇÕES
+
+Revisão aplicada ao catálogo de exercícios:
+- 69 exercícios/variações cadastrados
+- 69 IDs únicos
+- 0 exercícios sem mapeamento no catálogo
+- 0 IDs duplicados
+
+Correções principais desta versão:
+- Supino reto, supino inclinado e supino inclinado com halteres separados por banco/implemento.
+- Crucifixo máquina e crucifixo inverso com máquinas próprias.
+- Desenvolvimento máquina separado de desenvolvimento com halteres.
+- Remada curvada com barra; remada unilateral com halter/apoio; remada baixa e remada máquina com equipamentos próprios.
+- Rosca direta com barra; rosca alternada/martelo com halteres.
+- Stiff e terra romeno com barra.
+- Cadeira extensora, mesa flexora, abdutora, hack, leg press e panturrilhas com máquinas/apoios específicos.
+- Afundo búlgaro com apoio traseiro; passada no Smith com estrutura do Smith.
+- Tríceps testa deitado no banco; tríceps corda na polia.
+- Coice e abdução no cabo ligados à perna.
+- Exercícios de casa com cadeira, mochila, garrafas e elástico acompanhando o movimento.
+- Flexão declinada com apoio dos pés; agachamento unilateral assistido com apoio da mão.
+- Circuito funcional e circuito metabólico agora são sequências diferentes.
+
+Validação técnica:
+- TypeScript da página principal validado sem erros usando declaração local de React para a checagem de sintaxe/tipos.
+- O build Next.js completo continua dependendo das dependências do projeto instaladas (npm install).

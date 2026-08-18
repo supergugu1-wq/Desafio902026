@@ -1,0 +1,1 @@
+Coloque seus arquivos .mp4 nesta pasta e atualize os caminhos em app/page.tsx.
